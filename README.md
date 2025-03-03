@@ -7,5 +7,5 @@ A demo project that's actually just a readme file.
 
 <h2>this is an h2 that is Oze's responsibility</h2>
 
-<h3>this is an h3 that is Nichos's responsibility</h3>
+<h3>this is an h3 that is Nikos responsibility</h3>
 
