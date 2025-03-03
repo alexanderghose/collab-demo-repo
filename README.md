@@ -1,5 +1,7 @@
 # collab-demo-repo
 
+<header>incredible new header feature</header>
+
 A demo project that's actually just a readme file.
 
 <h1>This is an h1 that's Beverly's responsibility</h1>
